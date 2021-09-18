@@ -2,8 +2,9 @@
 
 ### TODO
 
-- [ ] Running Kafka Broker
-- [ ] Create test topics
-- [ ] Learn produces & consumes multiple events
+- [x] Running Kafka Broker
+- [x] Create test topics
+- [x] Learn produces & consumes multiple events
 - [ ] Learn edge case, fail events
-- [ ] Add consumer to existing broker
+- [x] Add consumer to existing broker
+- [ ] Learn consumer groups
